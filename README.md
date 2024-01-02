@@ -1,3 +1,12 @@
+Name: William Vasilev
 
+YouTube Demo link - https://youtu.be/woQJ8Xi6Li4
 
-aws s3 cp test.txt s3://a-bucket/test.txt --metadata '{"x-amz-meta-cms-id":"34533452"}'
+Phase 1.
+[ List the Lambda functions in this phase's architecture and state their working status.]
+
+, e.g.
+
+Confirmation Mailer - Fully implemented.
+Rejection Mailer - Fully implemented.
+Process Image - Fully implemented
